@@ -1,3 +1,6 @@
 aloo
 pyaz
 lashun
+gladiator
+300
+troy
